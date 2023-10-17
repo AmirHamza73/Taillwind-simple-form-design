@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Taillwind simple form design</h1>
 
-<p id="description">My first simple card design</p>
+<p id="description">My first simple form design</p>
 
 <h2>Project Screenshots:</h2>
 
